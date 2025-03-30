@@ -5,6 +5,10 @@
 * [youtube](https://www.youtube.com/@vasilievi/videos)
 * 
 
+## HTML
+
+* index.html
+
 ## GIT Commands
 
 * `git init`
@@ -14,4 +18,4 @@
 
 ## GITHub
 
-* 
+* <https://github.com/AleksandrKrasovski/Course>

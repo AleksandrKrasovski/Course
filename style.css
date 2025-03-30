@@ -1,0 +1,11 @@
+.title-color {
+  font-size: 2em;
+  color: #894ae2;
+}
+.title-color:hover {
+  color: #D0021B;
+}
+
+.link-bg-color {
+    background-color: #d002ae;
+}

@@ -3,7 +3,7 @@
 ## Sources
 
 * [youtube](https://www.youtube.com/@vasilievi/videos)
-* 
+* <https://github.com/AleksandrKrasovski/Course>
 
 ## HTML
 
@@ -19,3 +19,15 @@
 ## GITHub
 
 * <https://github.com/AleksandrKrasovski/Course>
+
+## CSS
+
+* `style.css`
+  * .className {}
+  * Seldom
+    * h1 {}
+    * #idName {}
+* `index.html`
+  * <tag class="className">
+
+
